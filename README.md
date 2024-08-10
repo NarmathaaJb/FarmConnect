@@ -11,7 +11,7 @@ FarmConnect is a web application that aims to bridge the gap between farmers and
 - Order processing🛒 and management 🚚
 - Secure🔒💳 payment integration
 - User reviews💬 and ratings⭐
-- Location-based search
+- Location-based search📍
 
 ### Technology Stack:
 
