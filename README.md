@@ -1,4 +1,4 @@
-# FarmConnect
+# FarmConnect 🌱
 ## A MERN Stack Application for Direct Farm-to-Consumer Market
 
 ### Description:
