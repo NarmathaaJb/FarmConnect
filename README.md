@@ -1,10 +1,10 @@
 # FarmConnect 🌱
 ## A MERN Stack Application for Direct Farm-to-Consumer Market 🧑‍🌾🚚
 
-### Description:
+### Description :
 FarmConnect is a web application that aims to bridge the gap between farmers and consumers. It provides a platform for farmers to directly sell their fresh produce to customers, eliminating intermediaries and ensuring fair prices. Consumers can access a wide variety of fresh, locally sourced products.
 
-### Key Features:
+### Key Features :
 
 - Farmer registration📝 and profile management 
 - Product listing and management📊
@@ -13,7 +13,7 @@ FarmConnect is a web application that aims to bridge the gap between farmers and
 - User reviews💬 and ratings⭐
 - Location-based search📍
 
-### Technology Stack:
+### Technology Stack :
 
 - Frontend: React⚛️
 - Backend: Node.js, Express.js
