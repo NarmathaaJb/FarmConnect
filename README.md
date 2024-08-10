@@ -6,11 +6,11 @@ FarmConnect is a web application that aims to bridge the gap between farmers and
 
 ### Key Features:
 
-- Farmer registration and profile management
+- Farmer registration📝 and profile management 
 - Product listing and management
-- Order processing and management
-- Secure payment integration
-- User reviews and ratings
+- Order processing🛒 and management🚚
+- Secure🔒💳 payment integration
+- User reviews💬 and ratings⭐
 - Location-based search
 
 ### Technology Stack:
